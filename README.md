@@ -3,7 +3,7 @@
 
 **Bootleggers status**    <a href='http://35.196.204.223:8080/job/Bootleggers'><img src='http://35.196.204.223:8080/buildStatus/icon?job=Bootleggers'></a>
 
-**CarbonROM Build Status**   <a href='http://35.196.204.223:8080/job/Carbon/5/'><img src='http://35.196.204.223:8080/buildStatus/icon?job=Carbon&build=5'></a>
+**CarbonROM Build Status**   <a href='http://35.196.204.223:8080/job/Carbon/'><img src='http://35.196.204.223:8080/buildStatus/icon?job=Carbon'></a>
 
 To get Download stats check this
 
